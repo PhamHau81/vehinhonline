@@ -1,0 +1,6 @@
+{
+  "name": "VẼ HÌNH KG _ PHẠM HẬU",
+  "description": "Ứng dụng vẽ hình học không gian 3D tương tác theo yêu cầu người nhập đề. Dựng hình chóp, lăng trụ, thiết diện, đường cao, nét đứt và công thức toán học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
